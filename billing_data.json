@@ -1,0 +1,14 @@
+[
+    {
+        "MEDICAL_SERVICE_PROVIDER": "UNC HEALTHCARE SYSTEM",
+        "DATE_OF_SERVICE": "09/26/2019",
+        "PAGE_NO": "Pg. 110",
+        "DESCRIPTION": "FOOT RT PORT",
+        "CPT_CODE": "80336",
+        "ICD_CODE": "M54.06,M54.07,G89.4",
+        "AMOUNT_CHARGED": "18.79",
+        "INSURANCE_PAID": "352.23",
+        "INSURANCE_ADJUSTMENT": "63.45",
+        "PLAINTIFF_PAID": "25.00"   
+    }
+]
